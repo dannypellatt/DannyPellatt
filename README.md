@@ -7,7 +7,7 @@ I graduated from Plymouth University, England as a Geology major and completed t
 After spending a couple of years as a Freelance web developer, I realized I am passionate about creating applications. I am currently open to offers for work.
 
 
-### Projects	💻
+## 💻 Projects
 
 Here are some of the projects I am most proud of:
 
@@ -27,11 +27,10 @@ Here are some of the projects I am most proud of:
   ASP.NET Core MVC, C#, HTML, CSS, Bootstrap
 
 
-### Contact	📫
+## 📫 Contact
 
-- ![<LinkedIn>](https://img.shields.io/badge/<LinkedIn>-<#0A66C2>?style=for-the-badge&logo=<LinkedIn>&logoColor=<white>) 
+- LinkedIn: https://www.linkedin.com/in/dannypellatt/
+- Portfolio: https://dannypellatt.github.io/
+- Resume: https://dannypellattresume.netlify.app/
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
