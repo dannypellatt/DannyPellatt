@@ -29,7 +29,7 @@ Here are some of the projects I am most proud of:
 
 ### Contact	📫
 
-- ![<linkedIn>](https://img.shields.io/badge/<LinkedIn>-<blue>?style=for-the-badge&logo=<LinkedIn>&logoColor=<white>) 
+- ![<linkedIn>](https://img.shields.io/badge/<LinkedIn-#0A66C2>-<#0A66C2>?style=for-the-badge&logo=<LinkedIn>&logoColor=<white>) 
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
