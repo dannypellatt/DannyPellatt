@@ -1,8 +1,6 @@
 ### Hi there, thanks for visiting! 👋
 
-I am Danny Pellatt. A full stack software developer living in Washington DC, USA. 
-
-Specializing in .NET Core, C#, MySQL, HTML, CSS, & JavaScript.
+I am Danny Pellatt. A full stack software developer living in Washington DC, USA, specializing in .NET Core, C#, MySQL, HTML, CSS, & JavaScript.
 
 I graduated from Plymouth University, England as a Geology major and completed the TrueCoders boot camp in 2022. 
 
