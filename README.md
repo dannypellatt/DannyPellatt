@@ -39,5 +39,3 @@ Here are some of the projects I am most proud of:
 Originally from a small village in England, I moved to America late 2021. 
 
 I enjoy music (I play 7 instruments!), problem-solving games (video, board and escape rooms), and travel (21 countries on 4 continents, 42 US states and 14 National Parks so far!)
-
-I've always been passionate about learning new things and creativity. I believe this is the link between music and software development that has allowed me to always love my career.
