@@ -20,7 +20,7 @@ Here are some of the projects I am most proud of:
   ASP.NET Core MVC, C#, API's, HTML, CSS, Postman, RapidAPI
   
 - TacoParser - Finds TacoBell locations furthest away from one another, displaying their names and distance.
-  ASP.NET Core MVC, C#, MySQL, API's, HTML, CSS, xUnit TTD, Geolocator NuGet
+  ASP.NET Core MVC, C#, MySQL, API's, HTML, CSS, xUnit TDD, Geolocator NuGet
   
 - gimmepizza - An app that allows users to put in the size and amount of pizza and get the actual amount in square inches.
   ASP.NET Core MVC, C#, HTML, CSS, Bootstrap
