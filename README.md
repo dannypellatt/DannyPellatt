@@ -13,16 +13,14 @@ Here are some of the projects I am most proud of:
 - DataCo - A comprehensive report delivery tool for veterinary groups, seamlessly integrating data from various practices at the end of each month.
   ASP .NET Core, C#, PostgreSQL, Entity Framework Core, Azure DevOps & Cloud Services, OOP, nUnit, Debugging, Swagger
   
-- PRISM - 
+- PRISM - Enterprise software that allows a large, multi-branch company to play around with the prices of products in individual locations.
+  ASP .NET Core, C#, Blazor, PostgreSQL, Azure DevOps, Azure Cloud Services, Figma, nUnit, Debugging, Swagger
 
 - Cross The Pond - A multifunctional travel application aiding visits to Britain for Americans and America for the British.
   ASP.NET Core MVC, C#, MySQL, API's, HTML, CSS, JavaScript, Bootstrap, JQuery, OOP
   
 - Best Buy Database - A CRUD Application that takes a database of BestBuy products and allows manipulation.
   ASP.NET Core MVC, C#, MySQL, HTML, CSS
-  
-- Swanson Goes West - Program simulates a conversation, randomly quoting Kanye West and Ron Swanson by calling APIs.
-  ASP.NET Core MVC, C#, API's, HTML, CSS, Postman, RapidAPI
   
 - TacoParser - Finds TacoBell locations furthest away from one another, displaying their names and distance.
   ASP.NET Core MVC, C#, MySQL, API's, HTML, CSS, xUnit TDD, Geolocator NuGet
