@@ -2,7 +2,7 @@
 
 I am Danny Pellatt. A full stack software developer living in Encinitas, California, USA. 
 
-Proficient in a variety of programming languages, I'm adept at employing web development fundamentals, managing relational and non-relational databases, utilizing server-side and client-side frameworks, leveraging version control systems, using APIs, as well as effectively testing and debugging across the entire development stack.
+Proficient in a variety of programming languages, I'm adept at web development, managing relational and non-relational databases, utilizing server-side and client-side frameworks, leveraging version control systems, using APIs, as well as effectively testing and debugging across the entire development stack.
 
 I graduated from Plymouth University, England as a Geology major and completed the TrueCoders boot camp in 2022, after which I quickly got a remote job as a developer at a tech company in Kentucky. I am currently open to offers for work.
 
