@@ -1,14 +1,19 @@
 ### Hi there, thanks for visiting! 👋
 
-I am Danny Pellatt. A full stack software developer living in Washington DC, USA, specializing in .NET Core, C#, MySQL, HTML, CSS, & JavaScript.
+I am Danny Pellatt. A full stack software developer living in Encinitas, California, USA. 
 
-I graduated from Plymouth University, England as a Geology major and completed the TrueCoders boot camp in 2022. 
+Proficient in a variety of programming languages, I'm adept at employing web development fundamentals, managing relational and non-relational databases, utilizing server-side and client-side frameworks, leveraging version control systems, using APIs, as well as effectively testing and debugging across the entire development stack.
 
-After spending a couple of years as a Freelance web developer, I realized I am passionate about creating applications. This is when I threw myself into the work, creating as many projects as I could. I am currently open to offers for work.
+I graduated from Plymouth University, England as a Geology major and completed the TrueCoders boot camp in 2022, after which I quickly got a remote job as a developer at a tech company in Kentucky. I am currently open to offers for work.
 
 ## 💻 Projects
 
 Here are some of the projects I am most proud of:
+
+- DataCo - A comprehensive report delivery tool for veterinary groups, seamlessly integrating data from various practices at the end of each month.
+  ASP .NET Core, C#, PostgreSQL, Entity Framework Core, Azure DevOps & Cloud Services, OOP, nUnit, Debugging, Swagger
+  
+- PRISM - 
 
 - Cross The Pond - A multifunctional travel application aiding visits to Britain for Americans and America for the British.
   ASP.NET Core MVC, C#, MySQL, API's, HTML, CSS, JavaScript, Bootstrap, JQuery, OOP
@@ -37,7 +42,7 @@ Here are some of the projects I am most proud of:
 
 Originally from a small village in England, I moved to America late 2021. 
 
-I enjoy music (I play 7 instruments!), problem-solving games (video, board and escape rooms), and travel (21 countries on 4 continents, 42 US states and 14 National Parks so far!)
+I enjoy music (I play 7 instruments!), problem-solving games (video, board and escape rooms), and travel (>30 countries on 4 continents, 42 US states and 12 National Parks so far!)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dannypellatt)](https://git.io/streak-stats)
